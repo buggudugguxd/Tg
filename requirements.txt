@@ -2,4 +2,5 @@ flask
 flask-cors
 apscheduler
 telethon
+gunicorn
 python-dotenv
